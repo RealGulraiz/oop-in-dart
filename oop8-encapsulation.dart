@@ -4,8 +4,6 @@ void main(){
   employee.setEmployeeId(34897);
   print(employee.getEmployeeId().toString());
 
-  print(employee._employeeId);
-
 }
 
 class Employee{
